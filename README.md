@@ -1,7 +1,6 @@
 # CIRA-DB
 
-The on-device SQLite schema for the CIRA mobile app (Flutter/sqflite). This is a
-**reference copy** taken from [Bashab18/TEST](https://github.com/Bashab18/TEST)
+The on-device SQLite schema for the CIRA mobile app (Flutter/sqflite).
 (`lib/services/app_database.dart`, `lib/models/recorded_session.dart`) — not a
 package the app depends on, so changes here don't automatically apply there.
 
